@@ -23,6 +23,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
@@ -112,6 +113,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
 | ------- |
