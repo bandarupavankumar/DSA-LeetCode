@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
