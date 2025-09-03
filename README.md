@@ -42,4 +42,25 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
+## String
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
