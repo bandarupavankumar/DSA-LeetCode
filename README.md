@@ -51,6 +51,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
