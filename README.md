@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
@@ -37,4 +38,8 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
