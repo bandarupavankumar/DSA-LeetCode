@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 ## Backtracking
 |  |
@@ -114,6 +115,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0061-rotate-list) |
@@ -133,5 +135,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
