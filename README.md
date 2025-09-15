@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0260-single-number-iii) |
 ## Two Pointers
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -47,10 +49,12 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
 |  |
@@ -137,4 +141,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
