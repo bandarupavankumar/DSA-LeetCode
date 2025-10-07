@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0137-single-number-ii) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0066-plus-one) |
 ## Backtracking
 |  |
 | ------- |
