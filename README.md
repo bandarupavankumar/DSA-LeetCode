@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -31,6 +32,7 @@
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
