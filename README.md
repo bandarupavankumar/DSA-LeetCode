@@ -13,6 +13,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0075-sort-colors) |
@@ -84,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
