@@ -22,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -41,6 +42,7 @@
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 ## Stack
 |  |
