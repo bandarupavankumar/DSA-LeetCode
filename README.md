@@ -67,12 +67,14 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -107,6 +109,7 @@
 | [0002-add-two-numbers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
