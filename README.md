@@ -29,6 +29,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0260-single-number-iii) |
+| [0413-arithmetic-slices](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0413-arithmetic-slices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0119-pascals-triangle-ii](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
+| [0413-arithmetic-slices](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0413-arithmetic-slices) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0413-arithmetic-slices) |
 ## Rolling Hash
 |  |
 | ------- |
