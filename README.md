@@ -70,6 +70,7 @@
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0239-sliding-window-maximum](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
