@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
@@ -202,4 +204,12 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0176-second-highest-salary) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
