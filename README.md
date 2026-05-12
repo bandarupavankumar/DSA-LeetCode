@@ -76,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/bandarupavankumar/DSA-LeetCode/tree/master/0187-repeated-dna-sequences) |
